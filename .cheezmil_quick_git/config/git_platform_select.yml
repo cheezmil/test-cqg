@@ -1,6 +1,6 @@
 platforms:
   github:
-    enabled: 0
+    enabled: 1
     remote: github
     additionalGitignoreFile: '.cheezmil_quick_git/config/additional-github-gitignore.txt'
     pushRefspec: 'main:main'
