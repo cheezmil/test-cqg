@@ -5,3 +5,4 @@
 # microservices/image-7.png
 resin-src/doc/images/dashboard_zh-cn.png
 resin-src/doc/images/dashboard_en-us.png
+oversize_whitelist_test.bin

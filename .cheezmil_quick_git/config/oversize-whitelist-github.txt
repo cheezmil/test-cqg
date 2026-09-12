@@ -3,3 +3,4 @@
 # 白名单中的文件即使超过 1 MB 也不会被拦截
 # 示例：
 # microservices/image-7.png
+oversize_whitelist_test.bin
