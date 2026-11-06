@@ -3,6 +3,5 @@ node_modules/
 *.log
 keep-me.txt
 
-# cqg:nested-managed-by-cqg
-.git-nested-managed-by-cqg/
-# end cqg
+B/
+C/
