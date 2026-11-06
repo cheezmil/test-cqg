@@ -1,0 +1,3 @@
+tui-use interactive check
+purpose: drive real cqg acp --uu prompts through a PTY
+platforms: gitea + github
