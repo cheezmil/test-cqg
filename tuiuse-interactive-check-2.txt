@@ -1,0 +1,2 @@
+tui-use interactive check round 2
+purpose: invalid-choice retry + multiline message + dual-platform push
