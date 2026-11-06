@@ -1,0 +1,1 @@
+C worktree (uncommitted, created for F4/skip test)
