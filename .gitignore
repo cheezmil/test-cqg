@@ -1,1 +1,6 @@
-.git-nested-managed-by-cqg/
+# 用户自定义规则（restore 后必须原样保留）
+node_modules/
+*.log
+keep-me.txt
+
+B/
